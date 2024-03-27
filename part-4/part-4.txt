@@ -1,2 +1,0 @@
-part-4 of the MDN Asynchronous JavaScript tutorial
-
